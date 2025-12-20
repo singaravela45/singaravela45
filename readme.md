@@ -6,6 +6,6 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,cpp,html,css,js,discord,docker,postgres,dynamodb,express,figma,github,linux,md,mongodb,mysql,nodejs,py,react,redux,tailwind,ts,vscode,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=aws,cpp,html,css,js,docker,dynamodb,express,github,linux,md,mongodb,mysql,nodejs,py,react,redux,tailwind,ts,vscode,&perline=14" />
   </a>
 </p>
